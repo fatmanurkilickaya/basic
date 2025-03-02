@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "27roDqg+h1qg+LmalxAL9QBjGXbPKZphsLFatTMHZAg=",
+  "Hash": "kHeKJZUz1QC2WTtvv8KmTq9/ccq6KWEHtUatlWo6oLE=",
   "Source": "basic",
   "BasePath": "_content/basic",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\DropBox\\Dropbox\\Kayseri Üniversitesi\\BAHAR\\2024-2025_Egitim_Ogretim\\internet_programciligi_II\\aspnetcore\\basic\\wwwroot\\Img\\js.jpg",
+      "SourceId": "basic",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\DropBox\\Dropbox\\Kayseri Üniversitesi\\BAHAR\\2024-2025_Egitim_Ogretim\\internet_programciligi_II\\aspnetcore\\basic\\wwwroot\\",
+      "BasePath": "_content/basic",
+      "RelativePath": "Img/js.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Img\\js.jpg"
+    },
+    {
+      "Identity": "C:\\DropBox\\Dropbox\\Kayseri Üniversitesi\\BAHAR\\2024-2025_Egitim_Ogretim\\internet_programciligi_II\\aspnetcore\\basic\\wwwroot\\Img\\python.jpg",
+      "SourceId": "basic",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\DropBox\\Dropbox\\Kayseri Üniversitesi\\BAHAR\\2024-2025_Egitim_Ogretim\\internet_programciligi_II\\aspnetcore\\basic\\wwwroot\\",
+      "BasePath": "_content/basic",
+      "RelativePath": "Img/python.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Img\\python.jpg"
     },
     {
       "Identity": "C:\\DropBox\\Dropbox\\Kayseri Üniversitesi\\BAHAR\\2024-2025_Egitim_Ogretim\\internet_programciligi_II\\aspnetcore\\basic\\wwwroot\\js\\site.js",

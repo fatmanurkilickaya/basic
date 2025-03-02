@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\basic.bundle.scp.css"
     },
     {
+      "Id": "C:\\DropBox\\Dropbox\\Kayseri Üniversitesi\\BAHAR\\2024-2025_Egitim_Ogretim\\internet_programciligi_II\\aspnetcore\\basic\\wwwroot\\Img\\js.jpg",
+      "PackagePath": "staticwebassets\\Img\\js.jpg"
+    },
+    {
+      "Id": "C:\\DropBox\\Dropbox\\Kayseri Üniversitesi\\BAHAR\\2024-2025_Egitim_Ogretim\\internet_programciligi_II\\aspnetcore\\basic\\wwwroot\\Img\\python.jpg",
+      "PackagePath": "staticwebassets\\Img\\python.jpg"
+    },
+    {
       "Id": "C:\\DropBox\\Dropbox\\Kayseri Üniversitesi\\BAHAR\\2024-2025_Egitim_Ogretim\\internet_programciligi_II\\aspnetcore\\basic\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
